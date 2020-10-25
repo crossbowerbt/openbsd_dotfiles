@@ -1,0 +1,8 @@
+! $OpenBSD: dot.Xdefaults,v 1.3 2014/07/10 10:22:59 jasper Exp $
+XTerm*loginShell:true
+XTerm*background:black
+XTerm*foreground:lightgray
+XTerm*locale:utf8
+XTerm*font:-*-fixed-medium-*-*-*-14-*-*-*-*-*-*-*
+XTerm*scrollbar:false
+XTerm.vt100.scrollBar:false

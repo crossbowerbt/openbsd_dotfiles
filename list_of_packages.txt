@@ -1,0 +1,41 @@
+aria2-1.35.0p0      lightweight multi-protocol & multi-source download utility
+bzip2-1.0.8         block-sorting file compressor, unencumbered
+curl-7.72.0         transfer files with FTP, HTTP, HTTPS, etc.
+dia-0.97.3p7        technical diagrams drawing tool
+dmenu-4.9p1         dynamic menu for X11
+dosbox-0.74.3       x86 with DOS emulator targeted at playing games
+emacs-27.1-gtk3     GNU editor: extensible, customizable, self-documenting
+feh-3.5             lightweight image viewer
+fetchmail-6.4.12p0  mail retrieval utility for POP2, POP3, KPOP, IMAP and more
+firefox-82.0        Firefox web browser
+gimp-2.10.20        GNU Image Manipulation Program
+git-2.28.0          distributed version control system
+gnupg-2.2.23p0      GNU privacy guard - a free PGP replacement
+htop-3.0.1          interactive process viewer
+jdk-11.0.8.10.1v0   OpenJDK Software Development Kit v11.0.8+10-1
+libreoffice-7.0.1.2v0 multi-platform productivity suite
+links+-2.21         graphics and text browser
+lynx-2.8.9rel1p0    text web browser
+mariadb-client-10.5.6v1 multithreaded SQL database (client)
+mgba-0.8.3          Game Boy Color/Advance emulator
+mpv-0.32.0          movie player based on MPlayer/mplayer2
+mutt-1.14.7v3-gpgme-sasl tty-based e-mail client
+netsurf-3.10p0      lightweight web browser, with GTK interface
+nmap-7.80p0         scan ports and fingerprint stack of network hosts
+plan9port-20200616  Plan 9 from user space
+procmail-3.22p8     filtering local mail delivery agent
+pstree-2.39p0       list processes as a tree
+qemu-5.1.0          multi system emulator
+sbcl-2.0.1-threads  compiler and runtime system for ANSI Common Lisp
+sqlite3-3.31.1p0    embedded SQL implementation
+tree-0.62           print ascii formatted tree of a directory structure
+unzip-6.0p13        extract, list & test files in a ZIP archive
+xchm-1.31           display chm files
+xz-5.2.5            LZMA compression and decompression tools
+wget-1.20.3p3       retrieve files from the web via HTTP, HTTPS and FTP
+zathura-0.4.5       document viewer for PDF and other formats with a vi-like UI
+zathura-cb-0.1.8p2  comic book plugin for zathura
+zathura-djvu-0.2.9  djvu plugin for zathura
+zathura-pdf-poppler-0.3.0 poppler pdf plugin for zathura
+zathura-ps-0.2.6p2  spectre postscript plugin for zathura
+zip-3.0p1           create/update ZIP files compatible with PKZip(tm)
