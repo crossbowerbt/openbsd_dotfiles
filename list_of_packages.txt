@@ -17,6 +17,7 @@ libreoffice-7.0.1.2v0 multi-platform productivity suite
 links+-2.21         graphics and text browser
 lynx-2.8.9rel1p0    text web browser
 mariadb-client-10.5.6v1 multithreaded SQL database (client)
+mc-4.8.24           free Norton Commander clone with many useful features
 mgba-0.8.3          Game Boy Color/Advance emulator
 mpv-0.32.0          movie player based on MPlayer/mplayer2
 mutt-1.14.7v3-gpgme-sasl tty-based e-mail client
